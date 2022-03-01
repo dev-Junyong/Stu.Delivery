@@ -1,0 +1,10 @@
+.sidebar-container {
+  width: 250px;
+  height: 600px;
+  background: rgba(191, 122, 38, 0.7);
+  float: left;
+}
+
+.container {
+  top: 100px;
+}
